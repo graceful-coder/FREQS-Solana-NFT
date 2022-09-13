@@ -1,0 +1,10 @@
+{
+    "name": "Freqs NFT",
+    "symbol": "FREQS",
+    "description": "An NFT for Freqs",
+    "seller_fee_basis_points": 5,
+    "external_url": "",
+    "edition": "",
+    "background_color": "000000",
+    "image": "https://raw.githubusercontent.com/graceful-coder/FREQS/main/Freqs-Logo-Small.PNG"
+}
